@@ -1,0 +1,1015 @@
+Using pre-set license
+Built from '2020.3/staging' branch; Version is '2020.3.13f1 (71691879b7f5) revision 7432472'; Using compiler version '192528614'; Build Type 'Release'
+OS: 'Windows 10 Pro; OS build 19043.1149; Version 2009; 64bit' Language: 'en' Physical Memory: 16198 MB
+BatchMode: 1, IsHumanControllingUs: 0, StartBugReporterOnCrash: 0, Is64bit: 1, IsPro: 0
+
+ COMMAND LINE ARGUMENTS:
+C:\Program Files\Unity\Hub\Editor\2020.3.13f1\Editor\Unity.exe
+-adb2
+-batchMode
+-noUpm
+-name
+AssetImportWorker0
+-projectPath
+C:/Users/ishaa/Documents/Unity/Rail Runner
+-logFile
+Logs/AssetImportWorker0.log
+-srvPort
+49292
+Successfully changed project path to: C:/Users/ishaa/Documents/Unity/Rail Runner
+C:/Users/ishaa/Documents/Unity/Rail Runner
+Using Asset Import Pipeline V2.
+Refreshing native plugins compatible for Editor in 24.39 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Initialize engine version: 2020.3.13f1 (71691879b7f5)
+[Subsystems] Discovering subsystems at path C:/Program Files/Unity/Hub/Editor/2020.3.13f1/Editor/Data/Resources/UnitySubsystems
+[Subsystems] Discovering subsystems at path C:/Users/ishaa/Documents/Unity/Rail Runner/Assets
+GfxDevice: creating device client; threaded=0
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.1]
+    Renderer: Intel(R) UHD Graphics 620 (ID=0x3ea0)
+    Vendor:   
+    VRAM:     8099 MB
+    Driver:   27.20.100.8681
+Initialize mono
+Mono path[0] = 'C:/Program Files/Unity/Hub/Editor/2020.3.13f1/Editor/Data/Managed'
+Mono path[1] = 'C:/Program Files/Unity/Hub/Editor/2020.3.13f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit'
+Mono config path = 'C:/Program Files/Unity/Hub/Editor/2020.3.13f1/Editor/Data/MonoBleedingEdge/etc'
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56076
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: C:/Program Files/Unity/Hub/Editor/2020.3.13f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
+Registered in 0.001235 seconds.
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 23.01 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.258 seconds
+Platform modules already initialized, skipping
+Registering precompiled user dll's ...
+Registered in 0.002441 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.29 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.824 seconds
+Platform modules already initialized, skipping
+========================================================================
+Worker process is ready to serve import requests
+Launched and connected shader compiler UnityShaderCompiler.exe after 0.04 seconds
+Refreshing native plugins compatible for Editor in 0.29 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1390 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 77.1 MB.
+System memory in use after: 77.2 MB.
+
+Unloading 19 unused Assets to reduce memory usage. Loaded Objects now: 1840.
+Total: 2.173100 ms (FindLiveObjects: 0.182800 ms CreateObjectMapping: 0.036600 ms MarkObjects: 1.826900 ms  DeleteObjects: 0.126100 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Import Request.
+  path: Assets/New Terrain.asset
+  artifactKey: Guid(f7a69648b79fbc64daa7da985cd7a82e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/New Terrain.asset using Guid(f7a69648b79fbc64daa7da985cd7a82e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fd2906c0afcf2b1712f87fb8d0a4ef8b') in 0.023366 seconds 
+  Import took 0.025560 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 578.701965 seconds.
+  path: Assets/New Terrain.asset
+  artifactKey: Guid(f7a69648b79fbc64daa7da985cd7a82e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/New Terrain.asset using Guid(f7a69648b79fbc64daa7da985cd7a82e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b2ff0783d545e3c596e9e0e7f2677e77') in 0.008107 seconds 
+  Import took 0.012003 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 6.127284 seconds.
+  path: Assets/New Terrain.asset
+  artifactKey: Guid(f7a69648b79fbc64daa7da985cd7a82e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/New Terrain.asset using Guid(f7a69648b79fbc64daa7da985cd7a82e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '466b5fd7653140714146ed910f08a217') in 0.010051 seconds 
+  Import took 0.012731 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 40.346878 seconds.
+  path: Assets/New Terrain.asset
+  artifactKey: Guid(f7a69648b79fbc64daa7da985cd7a82e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/New Terrain.asset using Guid(f7a69648b79fbc64daa7da985cd7a82e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'dfc9b499797213781709e69e1e4a9efc') in 0.007568 seconds 
+  Import took 0.011888 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 4690.950204 seconds.
+  path: Assets/epyphany/Textures
+  artifactKey: Guid(6e2e1470496c9394d91aa2463abcdfad) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/epyphany/Textures using Guid(6e2e1470496c9394d91aa2463abcdfad) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4ecd2d554edcd561045e33577a8ed862') in 0.007990 seconds 
+  Import took 0.011154 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.051646 seconds.
+  path: Assets/epyphany/Textures/alienSkin2Emi.png
+  artifactKey: Guid(eac97dbe1caed70448c00fdbd1d84f6f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/epyphany/Textures/alienSkin2Emi.png using Guid(eac97dbe1caed70448c00fdbd1d84f6f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b84902017b64fe86f0af77f64e04ac74') in 0.128958 seconds 
+  Import took 0.131339 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000282 seconds.
+  path: Assets/epyphany/Textures/asphaltNorm.png
+  artifactKey: Guid(fcb6dd21e9cf38f46a6387e7eefac08e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/epyphany/Textures/asphaltNorm.png using Guid(fcb6dd21e9cf38f46a6387e7eefac08e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd74d3655b0bc924eb4c25d2fb4f6b471') in 0.044085 seconds 
+  Import took 0.046356 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000514 seconds.
+  path: Assets/epyphany/Textures/alienSkin2Norm.png
+  artifactKey: Guid(10c4ad7ea5bb5704391d7c312e5746c6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/epyphany/Textures/alienSkin2Norm.png using Guid(10c4ad7ea5bb5704391d7c312e5746c6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '46eeec53f3a75e536469fe1047c8f450') in 0.019976 seconds 
+  Import took 0.023673 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000424 seconds.
+  path: Assets/epyphany/Textures/dragonScalesSecondary.png
+  artifactKey: Guid(a654314a3c717414ba6175608fb2ffc9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/epyphany/Textures/dragonScalesSecondary.png using Guid(a654314a3c717414ba6175608fb2ffc9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '95f1a2bfede59a7dd0f25cc9c8578f2a') in 0.018676 seconds 
+  Import took 0.022236 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000508 seconds.
+  path: Assets/epyphany/Textures/rock5.png
+  artifactKey: Guid(0ee397d9e4c9c9e41b8404b84f888852) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/epyphany/Textures/rock5.png using Guid(0ee397d9e4c9c9e41b8404b84f888852) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7243f178df0fc7744d1714ff75cdea31') in 0.023260 seconds 
+  Import took 0.027803 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000478 seconds.
+  path: Assets/epyphany/Textures/rock4norm.png
+  artifactKey: Guid(4923e2bbb711c0a40904d904af3dfea5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/epyphany/Textures/rock4norm.png using Guid(4923e2bbb711c0a40904d904af3dfea5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8592f54486a2cc4347c361b2257902b0') in 0.030106 seconds 
+  Import took 0.033880 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000192 seconds.
+  path: Assets/epyphany/Textures/bubbles.png
+  artifactKey: Guid(19672211eed36eb43823202b2a3ddb5c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/epyphany/Textures/bubbles.png using Guid(19672211eed36eb43823202b2a3ddb5c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '721cd85523d5f9e5e4ac396af71edf2f') in 0.020071 seconds 
+  Import took 0.023155 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000239 seconds.
+  path: Assets/epyphany/Textures/Metal1inv.png
+  artifactKey: Guid(c4733b06edad16049b36eb887542433a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/epyphany/Textures/Metal1inv.png using Guid(c4733b06edad16049b36eb887542433a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '957c30c847f08060d9f5e208a78a320d') in 0.027598 seconds 
+  Import took 0.031578 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000886 seconds.
+  path: Assets/epyphany/Textures/rock3Norm.png
+  artifactKey: Guid(18de5f2fa8437004c9841ca1683bf48f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/epyphany/Textures/rock3Norm.png using Guid(18de5f2fa8437004c9841ca1683bf48f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fa607e562c1c4e27128be324d43be78c') in 0.021761 seconds 
+  Import took 0.025049 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000219 seconds.
+  path: Assets/epyphany/Textures/plasterNorm.png
+  artifactKey: Guid(b9a9661b71d178149a9116ab4768bd4f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/epyphany/Textures/plasterNorm.png using Guid(b9a9661b71d178149a9116ab4768bd4f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a5aede7ff45cf25d8597b9b1cfa56b3b') in 0.021347 seconds 
+  Import took 0.024783 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000458 seconds.
+  path: Assets/epyphany/Textures/rock1.png
+  artifactKey: Guid(c01c4f61572ab2f4b85ef4a485263db6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/epyphany/Textures/rock1.png using Guid(c01c4f61572ab2f4b85ef4a485263db6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '963d0c07a9bea53c01fad43e0a8d91bf') in 0.019596 seconds 
+  Import took 0.022813 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000340 seconds.
+  path: Assets/epyphany/Textures/menhir.png
+  artifactKey: Guid(c09937ff746aa7e4691c3d28bcf2af37) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/epyphany/Textures/menhir.png using Guid(c09937ff746aa7e4691c3d28bcf2af37) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '44c2769340049ff2891b21e0263d18ec') in 0.027471 seconds 
+  Import took 0.030161 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000342 seconds.
+  path: Assets/epyphany/Textures/Metal1.png
+  artifactKey: Guid(9d576761f5ad9c04b8666e3d7c2707b0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/epyphany/Textures/Metal1.png using Guid(9d576761f5ad9c04b8666e3d7c2707b0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '12e5cb5664208b29ca314b9d1a5bfaa8') in 0.019527 seconds 
+  Import took 0.022539 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000271 seconds.
+  path: Assets/epyphany/Textures/glass.png
+  artifactKey: Guid(3585069d208350e4d8efedb489550ea1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/epyphany/Textures/glass.png using Guid(3585069d208350e4d8efedb489550ea1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fe9cd3da482f6291152d7e9aaf93ec00') in 0.026892 seconds 
+  Import took 0.029541 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000199 seconds.
+  path: Assets/epyphany/Textures/menhirNorm.png
+  artifactKey: Guid(dc75516fbdd76b34988d894d9184d48c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/epyphany/Textures/menhirNorm.png using Guid(dc75516fbdd76b34988d894d9184d48c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '22791c1d8bdf2fd53d43f895cae75bf4') in 0.022771 seconds 
+  Import took 0.025072 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000245 seconds.
+  path: Assets/epyphany/Textures/silexNorm.png
+  artifactKey: Guid(3096d26133958b040b75a6d88b2147f0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/epyphany/Textures/silexNorm.png using Guid(3096d26133958b040b75a6d88b2147f0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '173fdd4cb3df56c80e3de596730eb430') in 0.021594 seconds 
+  Import took 0.024346 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000285 seconds.
+  path: Assets/epyphany/Textures/rock4.png
+  artifactKey: Guid(71bb21fcea6ff8547b7fcc45757c0815) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/epyphany/Textures/rock4.png using Guid(71bb21fcea6ff8547b7fcc45757c0815) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '18b4f030cfb610266dff68699580ec6c') in 0.023437 seconds 
+  Import took 0.025784 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000246 seconds.
+  path: Assets/epyphany/Textures/rock3AO.png
+  artifactKey: Guid(121285e3ff0d6b1419eb8825926703bb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/epyphany/Textures/rock3AO.png using Guid(121285e3ff0d6b1419eb8825926703bb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ce71cc1fc0ef14b05dbd8319a8540629') in 0.032671 seconds 
+  Import took 0.035810 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000248 seconds.
+  path: Assets/epyphany/Textures/dragonScalesEmi.png
+  artifactKey: Guid(7eeba2a5c108d184eb386b914f251c91) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/epyphany/Textures/dragonScalesEmi.png using Guid(7eeba2a5c108d184eb386b914f251c91) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b157c39b54a0a016c73ce47fc3184285') in 0.019234 seconds 
+  Import took 0.023300 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000242 seconds.
+  path: Assets/epyphany/Textures/glassNorm.png
+  artifactKey: Guid(ff8304714c1f48f42b25d852d95f4554) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/epyphany/Textures/glassNorm.png using Guid(ff8304714c1f48f42b25d852d95f4554) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fff5b242684f9fc16c90d191ea94f53d') in 0.022773 seconds 
+  Import took 0.025633 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000148 seconds.
+  path: Assets/epyphany/Textures/metal2Norm.png
+  artifactKey: Guid(6cc19b54b695d214ca53b3cfb4dfd4f2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/epyphany/Textures/metal2Norm.png using Guid(6cc19b54b695d214ca53b3cfb4dfd4f2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ab2635712f24db2f9fae56b459b91dc3') in 0.017926 seconds 
+  Import took 0.020396 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000286 seconds.
+  path: Assets/epyphany/Textures/mudNorm.png
+  artifactKey: Guid(51c3bca6d7f859641b6738656f7b6e2e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/epyphany/Textures/mudNorm.png using Guid(51c3bca6d7f859641b6738656f7b6e2e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5cf607e62e0960fbe0c54886e968eb0e') in 0.019503 seconds 
+  Import took 0.022929 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000647 seconds.
+  path: Assets/epyphany/Textures/Metal1S2norm2.png
+  artifactKey: Guid(74c8a41fe9021b547a704a24ea72ea3e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/epyphany/Textures/Metal1S2norm2.png using Guid(74c8a41fe9021b547a704a24ea72ea3e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '10b1f37f34764e902bccd3784ab7d2ab') in 0.021963 seconds 
+  Import took 0.025665 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000249 seconds.
+  path: Assets/epyphany/Textures/sandNorm3b.png
+  artifactKey: Guid(8514916e4dad5f74ea90e1331ca3f5ec) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/epyphany/Textures/sandNorm3b.png using Guid(8514916e4dad5f74ea90e1331ca3f5ec) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '676f41e1adf1eb97b2618018e5ec1a26') in 0.024557 seconds 
+  Import took 0.027093 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000230 seconds.
+  path: Assets/epyphany/Textures/rock1Norm.png
+  artifactKey: Guid(dada7846d4761ca478eafc09baeebe17) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/epyphany/Textures/rock1Norm.png using Guid(dada7846d4761ca478eafc09baeebe17) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f44bc312cb207241de8919c019c38064') in 0.020452 seconds 
+  Import took 0.023567 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000253 seconds.
+  path: Assets/epyphany/Textures/rock4norm2.png
+  artifactKey: Guid(7e48cd46eb8a8c2459d0b054fb803dd2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/epyphany/Textures/rock4norm2.png using Guid(7e48cd46eb8a8c2459d0b054fb803dd2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '54986b23c63f7873840c0c82cf10a92f') in 0.022594 seconds 
+  Import took 0.025320 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000288 seconds.
+  path: Assets/epyphany/Textures/brokenGlassNorm.png
+  artifactKey: Guid(ea84217d18e133d44a09c189da7a972a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/epyphany/Textures/brokenGlassNorm.png using Guid(ea84217d18e133d44a09c189da7a972a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3317e69e2610e23acc9c3139b67c93db') in 0.021056 seconds 
+  Import took 0.023983 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000301 seconds.
+  path: Assets/epyphany/Textures/Metal1S.png
+  artifactKey: Guid(23f73031698007242a70539079772742) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/epyphany/Textures/Metal1S.png using Guid(23f73031698007242a70539079772742) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8d5a0978f6149864cc36d6a762c4ec54') in 0.022761 seconds 
+  Import took 0.025782 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000244 seconds.
+  path: Assets/epyphany/Textures/berryNorm2.png
+  artifactKey: Guid(3d8af6c5d63a0d545949d99af18c2fbf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/epyphany/Textures/berryNorm2.png using Guid(3d8af6c5d63a0d545949d99af18c2fbf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd3057c28ef75d0065a1b40382caab5ed') in 0.019914 seconds 
+  Import took 0.022853 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000226 seconds.
+  path: Assets/epyphany/Textures/rock3.png
+  artifactKey: Guid(1b76e32dda8bd13439851ef1d40e0746) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/epyphany/Textures/rock3.png using Guid(1b76e32dda8bd13439851ef1d40e0746) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3ac82f97c4d0a500c0dcc403281fb0fb') in 0.020553 seconds 
+  Import took 0.024522 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000289 seconds.
+  path: Assets/epyphany/Textures/Metal1S2norm.png
+  artifactKey: Guid(7c0976d21f12fac458dadcfbdcfd2e9c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/epyphany/Textures/Metal1S2norm.png using Guid(7c0976d21f12fac458dadcfbdcfd2e9c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a666bc97617aa0433f187131f123b47d') in 0.018928 seconds 
+  Import took 0.021835 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000337 seconds.
+  path: Assets/epyphany/Textures/rock2.png
+  artifactKey: Guid(7861dec30859f4b4ca75b161da913e80) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/epyphany/Textures/rock2.png using Guid(7861dec30859f4b4ca75b161da913e80) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6a8cb13e2d75e2d65bb79ad406063eb7') in 0.019642 seconds 
+  Import took 0.023473 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000473 seconds.
+  path: Assets/epyphany/Textures/Metal1Norm.png
+  artifactKey: Guid(d2114dcbad34cd7459be98221cc5cba3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/epyphany/Textures/Metal1Norm.png using Guid(d2114dcbad34cd7459be98221cc5cba3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '35290638039ec109023269d99f6d22f5') in 0.025667 seconds 
+  Import took 0.029863 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000246 seconds.
+  path: Assets/epyphany/Textures/brokenGlass.png
+  artifactKey: Guid(b53f819735ba20c4e8b5420b46703e43) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/epyphany/Textures/brokenGlass.png using Guid(b53f819735ba20c4e8b5420b46703e43) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '45c6e53b081215187081711139ec94de') in 0.026863 seconds 
+  Import took 0.029846 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000275 seconds.
+  path: Assets/epyphany/Textures/silex.png
+  artifactKey: Guid(d7421b9c54189c348b77fb5487144615) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/epyphany/Textures/silex.png using Guid(d7421b9c54189c348b77fb5487144615) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ca05dfe1273bd9c0048e67855ae4fa68') in 0.024683 seconds 
+  Import took 0.028792 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000373 seconds.
+  path: Assets/epyphany/Textures/silexHeightMap.png
+  artifactKey: Guid(b2ea984ed73182b429d772845cc7fb8a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/epyphany/Textures/silexHeightMap.png using Guid(b2ea984ed73182b429d772845cc7fb8a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd6bab42dd6964a0cc55beae78b34c5e3') in 0.019955 seconds 
+  Import took 0.023056 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000307 seconds.
+  path: Assets/epyphany/Textures/metal2.png
+  artifactKey: Guid(41aac45a691945b4eb88b47288369ede) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/epyphany/Textures/metal2.png using Guid(41aac45a691945b4eb88b47288369ede) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '15ccad3a8a690dd69eab467d01af0914') in 0.023785 seconds 
+  Import took 0.027245 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000345 seconds.
+  path: Assets/epyphany/Textures/alienSkinNor.png
+  artifactKey: Guid(c486a09eebe1ae745b184c9bb8e132db) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/epyphany/Textures/alienSkinNor.png using Guid(c486a09eebe1ae745b184c9bb8e132db) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '98b9c1c7247350b6721645dfe7c4bacf') in 0.024806 seconds 
+  Import took 0.029116 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000376 seconds.
+  path: Assets/epyphany/Textures/bubblesNorm.png
+  artifactKey: Guid(56e1c4392bcb16642a5eeec761668dc7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/epyphany/Textures/bubblesNorm.png using Guid(56e1c4392bcb16642a5eeec761668dc7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '892c0612d0a4b32bed868b702f726f72') in 0.019108 seconds 
+  Import took 0.022938 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000343 seconds.
+  path: Assets/epyphany/Textures/plasterNorm2.png
+  artifactKey: Guid(0e37ec98d90c1e74197690b5be84e881) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/epyphany/Textures/plasterNorm2.png using Guid(0e37ec98d90c1e74197690b5be84e881) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '49fecd852e1c38584022f93c02329647') in 0.019517 seconds 
+  Import took 0.023255 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000666 seconds.
+  path: Assets/epyphany/Textures/asphaltAO.png
+  artifactKey: Guid(52ffff7599da86744a670d8e56250d4d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/epyphany/Textures/asphaltAO.png using Guid(52ffff7599da86744a670d8e56250d4d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '156e5f0a9188701f299de71704f4c9c3') in 0.017872 seconds 
+  Import took 0.022117 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000228 seconds.
+  path: Assets/epyphany/Textures/mud.png
+  artifactKey: Guid(07d24be07419d36458b90be65a3bedd8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/epyphany/Textures/mud.png using Guid(07d24be07419d36458b90be65a3bedd8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '10ec89a703c586a62a21b74326c42222') in 0.018013 seconds 
+  Import took 0.021347 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000228 seconds.
+  path: Assets/epyphany/Textures/rock2Norm.png
+  artifactKey: Guid(dc7876bdf0261c44181339f3d826890b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/epyphany/Textures/rock2Norm.png using Guid(dc7876bdf0261c44181339f3d826890b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '04ebb3218f42626efb0d3968d320ccb0') in 0.023107 seconds 
+  Import took 0.026358 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000210 seconds.
+  path: Assets/epyphany/Textures/alienSkinEmi.png
+  artifactKey: Guid(bc496c974ad6e7b42bdbaf62a868429a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/epyphany/Textures/alienSkinEmi.png using Guid(bc496c974ad6e7b42bdbaf62a868429a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '545eccbf6a11c9c9b3d022596c8bb381') in 0.017111 seconds 
+  Import took 0.021023 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000326 seconds.
+  path: Assets/epyphany/Textures/sandNorm3.png
+  artifactKey: Guid(afaf6bcf9986805439fb2e6d30203886) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/epyphany/Textures/sandNorm3.png using Guid(afaf6bcf9986805439fb2e6d30203886) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f5c868809b618123c9c62454ff4139e0') in 0.021587 seconds 
+  Import took 0.026163 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000163 seconds.
+  path: Assets/epyphany/Textures/bark.png
+  artifactKey: Guid(b38d5f61d8220d34eb825192f0e79107) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/epyphany/Textures/bark.png using Guid(b38d5f61d8220d34eb825192f0e79107) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a80c2df82d30219bf913daf478675177') in 0.014623 seconds 
+  Import took 0.017539 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000324 seconds.
+  path: Assets/epyphany/Textures/plaster.png
+  artifactKey: Guid(0e10f39a50675ca4b9efc2dcef5c0ea7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/epyphany/Textures/plaster.png using Guid(0e10f39a50675ca4b9efc2dcef5c0ea7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ab6e6f28af3013c6813bf8ca2216388e') in 0.017557 seconds 
+  Import took 0.020566 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000294 seconds.
+  path: Assets/epyphany/Textures/NoiseNormalS.png
+  artifactKey: Guid(f73aeec1471121a4dac4ed9462a0ccd3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/epyphany/Textures/NoiseNormalS.png using Guid(f73aeec1471121a4dac4ed9462a0ccd3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'bbf6cf5ac7e919784c40289eb2a0513b') in 0.022071 seconds 
+  Import took 0.024625 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000219 seconds.
+  path: Assets/epyphany/Textures/Noise.png
+  artifactKey: Guid(0d2603d61bf2ace4098cbb7735be9947) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/epyphany/Textures/Noise.png using Guid(0d2603d61bf2ace4098cbb7735be9947) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '75f04bb682e62726475a1c32616b5196') in 0.018314 seconds 
+  Import took 0.022783 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 94.336087 seconds.
+  path: Assets/epyphany/Textures/woodMushroom.png
+  artifactKey: Guid(a8ad056f87871f446a630f56b3d57a33) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/epyphany/Textures/woodMushroom.png using Guid(a8ad056f87871f446a630f56b3d57a33) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c38d086d55e1251cca733aeebda3b44b') in 0.012785 seconds 
+  Import took 0.016331 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000572 seconds.
+  path: Assets/epyphany/Textures/woodMushroomNorm.png
+  artifactKey: Guid(d6fd951c040692e4ead245f379aee4ef) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/epyphany/Textures/woodMushroomNorm.png using Guid(d6fd951c040692e4ead245f379aee4ef) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'cfbed95e56dcd250b1031602bfdc590d') in 0.036124 seconds 
+  Import took 0.038242 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000313 seconds.
+  path: Assets/epyphany/Textures/woodMushroomEmi.png
+  artifactKey: Guid(55ede08bb25654f43ac0322bbcb6f607) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/epyphany/Textures/woodMushroomEmi.png using Guid(55ede08bb25654f43ac0322bbcb6f607) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b1237722c08e0d8a5255d59092c83478') in 0.016172 seconds 
+  Import took 0.018617 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000316 seconds.
+  path: Assets/epyphany/Textures/ZalienSkin.png
+  artifactKey: Guid(55f73799dbf7a3146a506b78f96df89a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/epyphany/Textures/ZalienSkin.png using Guid(55f73799dbf7a3146a506b78f96df89a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'faa50af9e9f16c1f416be23e2b698451') in 0.019444 seconds 
+  Import took 0.021884 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1797.474740 seconds.
+  path: Assets/epyphany/Textures/NewLayer.terrainlayer
+  artifactKey: Guid(9e85e479cc77193419bf03f4789f3cfc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/epyphany/Textures/NewLayer.terrainlayer using Guid(9e85e479cc77193419bf03f4789f3cfc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd926358b09dd8c9ddddeddea5c9074e1') in 0.038863 seconds 
+  Import took 0.041747 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1021.220593 seconds.
+  path: Assets/epyphany/Textures/NewLayer.terrainlayer
+  artifactKey: Guid(9e85e479cc77193419bf03f4789f3cfc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/epyphany/Textures/NewLayer.terrainlayer using Guid(9e85e479cc77193419bf03f4789f3cfc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '354e96c82368a631a9df9afee5bf2236') in 0.035798 seconds 
+  Import took 0.039552 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 38.631564 seconds.
+  path: Assets/New Terrain.asset
+  artifactKey: Guid(f7a69648b79fbc64daa7da985cd7a82e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/New Terrain.asset using Guid(f7a69648b79fbc64daa7da985cd7a82e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b27a74272cc0fc31d365b1034f9f2388') in 0.030096 seconds 
+  Import took 0.032721 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.580066 seconds.
+  path: Assets
+  artifactKey: Guid(00000000000000001000000000000000) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets using Guid(00000000000000001000000000000000) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '42d402b061de3733987d63b9cc3b64de') in 0.007270 seconds 
+  Import took 0.010401 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 6.027424 seconds.
+  path: Assets/Skybox.mat
+  artifactKey: Guid(e6b973880727dbf4494b05ffca662743) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Skybox.mat using Guid(e6b973880727dbf4494b05ffca662743) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd96a17b6bfba66445639cddd5abbd3b8') in 0.063774 seconds 
+  Import took 0.066883 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 144.259992 seconds.
+  path: Assets/Skybox.mat
+  artifactKey: Guid(e6b973880727dbf4494b05ffca662743) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Skybox.mat using Guid(e6b973880727dbf4494b05ffca662743) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a69c8bff49dd9b22ecb44557d064ba30') in 0.061416 seconds 
+  Import took 0.065421 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 127.601548 seconds.
+  path: Assets/SkyBox Volume 2/DeepSpaceBlue/backImage.png
+  artifactKey: Guid(d733e8221be901b429039b23c12749c6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SkyBox Volume 2/DeepSpaceBlue/backImage.png using Guid(d733e8221be901b429039b23c12749c6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '50cf72c8207bf0ab9cfc46ba9dc68e5f') in 0.012077 seconds 
+  Import took 0.014611 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000241 seconds.
+  path: Assets/SkyBox Volume 2/DeepSpaceBlue/DSB.mat
+  artifactKey: Guid(e980bc7fbb00dc34b86b95ac842d1920) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SkyBox Volume 2/DeepSpaceBlue/DSB.mat using Guid(e980bc7fbb00dc34b86b95ac842d1920) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c4eba148f93f99129af8118ee51abd20') in 0.160792 seconds 
+  Import took 0.162963 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000297 seconds.
+  path: Assets/SkyBox Volume 2/DeepSpaceBlue/downImage.png
+  artifactKey: Guid(53236b56bc0208c49936b442daccbb62) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SkyBox Volume 2/DeepSpaceBlue/downImage.png using Guid(53236b56bc0208c49936b442daccbb62) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0edb1c514ecff676488da6742e35f427') in 0.012436 seconds 
+  Import took 0.014694 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000282 seconds.
+  path: Assets/SkyBox Volume 2/DeepSpaceBlue/frontImage.png
+  artifactKey: Guid(3c74d9b24e6f1a24c8a23d012f45f750) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SkyBox Volume 2/DeepSpaceBlue/frontImage.png using Guid(3c74d9b24e6f1a24c8a23d012f45f750) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '893fac52e4c31ab280a06ddafbf6806d') in 0.014125 seconds 
+  Import took 0.016218 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000285 seconds.
+  path: Assets/SkyBox Volume 2/DeepSpaceBlue/leftImage.png
+  artifactKey: Guid(a40174c675fc1264dbbe1c9b83c7f29f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SkyBox Volume 2/DeepSpaceBlue/leftImage.png using Guid(a40174c675fc1264dbbe1c9b83c7f29f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6e1f58a638fc0ec303b947124bf554f9') in 0.011986 seconds 
+  Import took 0.014043 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000292 seconds.
+  path: Assets/SkyBox Volume 2/DeepSpaceBlue/rightImage.png
+  artifactKey: Guid(9dd9f87fe1ab7744fb7fb7046e3cfbfb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SkyBox Volume 2/DeepSpaceBlue/rightImage.png using Guid(9dd9f87fe1ab7744fb7fb7046e3cfbfb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'dd8933dbfe19b7c271780f52a6068068') in 0.011038 seconds 
+  Import took 0.013134 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000295 seconds.
+  path: Assets/SkyBox Volume 2/DeepSpaceBlue/upImage.png
+  artifactKey: Guid(bd01d8f5deedc054ea3c866c4df95a94) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SkyBox Volume 2/DeepSpaceBlue/upImage.png using Guid(bd01d8f5deedc054ea3c866c4df95a94) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fbbb2c7d9e2ea30ab0841365df63ab84') in 0.016966 seconds 
+  Import took 0.019618 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 4.724539 seconds.
+  path: Assets/SkyBox Volume 2/Stars01/backImage.png
+  artifactKey: Guid(0fbf23bda4c210c44a0fe51c9bbaecc7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SkyBox Volume 2/Stars01/backImage.png using Guid(0fbf23bda4c210c44a0fe51c9bbaecc7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b739def32d073469ac1fe538f3a8de3e') in 0.009702 seconds 
+  Import took 0.012639 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000291 seconds.
+  path: Assets/SkyBox Volume 2/Stars01/downImage.png
+  artifactKey: Guid(2386597d5e868c9458b8bf627b1bbb25) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SkyBox Volume 2/Stars01/downImage.png using Guid(2386597d5e868c9458b8bf627b1bbb25) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ac23029dc60fa85bda14d79484e9b3e5') in 0.009149 seconds 
+  Import took 0.011246 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000307 seconds.
+  path: Assets/SkyBox Volume 2/Stars01/frontImage.png
+  artifactKey: Guid(c3883dd823634424cb7f77b7808dfb71) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SkyBox Volume 2/Stars01/frontImage.png using Guid(c3883dd823634424cb7f77b7808dfb71) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8ca1121f29e55f9575b1e4c565859160') in 0.008845 seconds 
+  Import took 0.010860 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000287 seconds.
+  path: Assets/SkyBox Volume 2/Stars01/upImage.png
+  artifactKey: Guid(1eee1a8f13e601d4e967192b6915486c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SkyBox Volume 2/Stars01/upImage.png using Guid(1eee1a8f13e601d4e967192b6915486c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '24d54659d359963dd768e7df7564485d') in 0.009654 seconds 
+  Import took 0.012046 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000276 seconds.
+  path: Assets/SkyBox Volume 2/Stars01/StarSkyBox.mat
+  artifactKey: Guid(b9be0c15efe8ad9489fdeead114d8ec5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SkyBox Volume 2/Stars01/StarSkyBox.mat using Guid(b9be0c15efe8ad9489fdeead114d8ec5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f8e4b995b7d40790a8c3c305a2bbc975') in 0.017671 seconds 
+  Import took 0.019987 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000297 seconds.
+  path: Assets/SkyBox Volume 2/Stars01/leftImage.png
+  artifactKey: Guid(e93b91c50a583a949bd59be8a2f0e8e0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SkyBox Volume 2/Stars01/leftImage.png using Guid(e93b91c50a583a949bd59be8a2f0e8e0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd1baf157dbd84709f5a20f72f9562393') in 0.010127 seconds 
+  Import took 0.012658 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000298 seconds.
+  path: Assets/SkyBox Volume 2/Stars01/rightImage.png
+  artifactKey: Guid(ff7a4eded7a1437488c0e6771172133e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SkyBox Volume 2/Stars01/rightImage.png using Guid(ff7a4eded7a1437488c0e6771172133e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '768487303c2c5b8ba78f5e9ac596cdf3') in 0.010245 seconds 
+  Import took 0.013453 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.958863 seconds.
+  path: Assets/SkyBox Volume 2/DeepsSpaceRedWithPlanet/backImage.png
+  artifactKey: Guid(6601b262566e8ed48bcd94e544e0fd2d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SkyBox Volume 2/DeepsSpaceRedWithPlanet/backImage.png using Guid(6601b262566e8ed48bcd94e544e0fd2d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '296494c663f401279a68e1f39d978484') in 0.011500 seconds 
+  Import took 0.014248 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000292 seconds.
+  path: Assets/SkyBox Volume 2/DeepsSpaceRedWithPlanet/DSRWP.mat
+  artifactKey: Guid(19e2485c6f92d6944ad20466ac77b04c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SkyBox Volume 2/DeepsSpaceRedWithPlanet/DSRWP.mat using Guid(19e2485c6f92d6944ad20466ac77b04c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '284fbb84d69f0e8203248da5b3c92d82') in 0.025834 seconds 
+  Import took 0.027863 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000336 seconds.
+  path: Assets/SkyBox Volume 2/DeepsSpaceRedWithPlanet/upImage.png
+  artifactKey: Guid(f0035d6da7d976a4f9e7d23bfa0fe7dc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SkyBox Volume 2/DeepsSpaceRedWithPlanet/upImage.png using Guid(f0035d6da7d976a4f9e7d23bfa0fe7dc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e7aa4b18350713323ace274124e9708f') in 0.011584 seconds 
+  Import took 0.013791 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000296 seconds.
+  path: Assets/SkyBox Volume 2/DeepsSpaceRedWithPlanet/leftImage.png
+  artifactKey: Guid(547e367b5b43c494e90431a6e38e87ac) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SkyBox Volume 2/DeepsSpaceRedWithPlanet/leftImage.png using Guid(547e367b5b43c494e90431a6e38e87ac) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '91f667655dea47cf367909edf0ce6651') in 0.009402 seconds 
+  Import took 0.011467 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000256 seconds.
+  path: Assets/SkyBox Volume 2/DeepsSpaceRedWithPlanet/rightImage.png
+  artifactKey: Guid(8d156f0545930a942b2ca6ed792014e9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SkyBox Volume 2/DeepsSpaceRedWithPlanet/rightImage.png using Guid(8d156f0545930a942b2ca6ed792014e9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '166ede906cab5302a6949b3c0fe0e408') in 0.011384 seconds 
+  Import took 0.013352 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000277 seconds.
+  path: Assets/SkyBox Volume 2/DeepsSpaceRedWithPlanet/frontImage.png
+  artifactKey: Guid(7e077c5370349b247929c95a8b8ce75e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SkyBox Volume 2/DeepsSpaceRedWithPlanet/frontImage.png using Guid(7e077c5370349b247929c95a8b8ce75e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'abeca7c3dd81bc3c068cb37e97e111e9') in 0.012061 seconds 
+  Import took 0.015211 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000386 seconds.
+  path: Assets/SkyBox Volume 2/DeepsSpaceRedWithPlanet/downImage.png
+  artifactKey: Guid(fe24c1d3a8341df488806f47b3a72356) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SkyBox Volume 2/DeepsSpaceRedWithPlanet/downImage.png using Guid(fe24c1d3a8341df488806f47b3a72356) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'be481a165cfbae65aa8a9c810e9bcf10') in 0.035811 seconds 
+  Import took 0.040161 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.659053 seconds.
+  path: Assets/SkyBox Volume 2/DeepSpaceRed/backImage.png
+  artifactKey: Guid(0d37d5a7bd77d4c4d87538ec79a8c071) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SkyBox Volume 2/DeepSpaceRed/backImage.png using Guid(0d37d5a7bd77d4c4d87538ec79a8c071) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd703bd75f6d290f3d7fc337818574503') in 0.012542 seconds 
+  Import took 0.015037 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000288 seconds.
+  path: Assets/SkyBox Volume 2/DeepSpaceRed/leftImage.png
+  artifactKey: Guid(f4ff7b3598c10f443b97a6624d7226e1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SkyBox Volume 2/DeepSpaceRed/leftImage.png using Guid(f4ff7b3598c10f443b97a6624d7226e1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '533f1fa04d97bcc0ab8e8afac8a31d54') in 0.010137 seconds 
+  Import took 0.019974 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000287 seconds.
+  path: Assets/SkyBox Volume 2/DeepSpaceRed/DSR.mat
+  artifactKey: Guid(966766f4829d6ad419eaaf7cf0712f85) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SkyBox Volume 2/DeepSpaceRed/DSR.mat using Guid(966766f4829d6ad419eaaf7cf0712f85) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '82bc3a131fd757c0549b9907add7857d') in 0.020407 seconds 
+  Import took 0.022638 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000320 seconds.
+  path: Assets/SkyBox Volume 2/DeepSpaceRed/frontImage.png
+  artifactKey: Guid(8ded2db630cde5548a1cb01fe3ffea49) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SkyBox Volume 2/DeepSpaceRed/frontImage.png using Guid(8ded2db630cde5548a1cb01fe3ffea49) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2eec4d00c8e2429412b7811cb5563651') in 0.013123 seconds 
+  Import took 0.015200 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000247 seconds.
+  path: Assets/SkyBox Volume 2/DeepSpaceRed/rightImage.png
+  artifactKey: Guid(6ea2e7ab328ea214a97f55c279f4a884) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SkyBox Volume 2/DeepSpaceRed/rightImage.png using Guid(6ea2e7ab328ea214a97f55c279f4a884) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6e01cc21689320f1b36b6819ed43ce7d') in 0.010045 seconds 
+  Import took 0.012247 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000298 seconds.
+  path: Assets/SkyBox Volume 2/DeepSpaceRed/downImage.png
+  artifactKey: Guid(bf0c0b6ba4b05d843b2035b5af2141c8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SkyBox Volume 2/DeepSpaceRed/downImage.png using Guid(bf0c0b6ba4b05d843b2035b5af2141c8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'abdd4101902ab330bc51904fba477279') in 0.039176 seconds 
+  Import took 0.042395 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000329 seconds.
+  path: Assets/SkyBox Volume 2/DeepSpaceRed/upImage.png
+  artifactKey: Guid(640a66a6c0d7e9a43950f36dd7dc9094) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SkyBox Volume 2/DeepSpaceRed/upImage.png using Guid(640a66a6c0d7e9a43950f36dd7dc9094) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'afee2cfddda65c1f9148e4a34f7e7a51') in 0.014415 seconds 
+  Import took 0.016815 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.842286 seconds.
+  path: Assets/SkyBox Volume 2/DeepSpaceGreenWithPlanet/backImage.png
+  artifactKey: Guid(b8eac033bd49f0f4a8914a7454a2ec3c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SkyBox Volume 2/DeepSpaceGreenWithPlanet/backImage.png using Guid(b8eac033bd49f0f4a8914a7454a2ec3c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '10104efc7cdf53f2474b2b2ff4d3f605') in 0.010663 seconds 
+  Import took 0.013137 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000277 seconds.
+  path: Assets/SkyBox Volume 2/DeepSpaceGreenWithPlanet/upImage.png
+  artifactKey: Guid(82671bcdbbcc6f54c86c3c2c6ed06aa8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SkyBox Volume 2/DeepSpaceGreenWithPlanet/upImage.png using Guid(82671bcdbbcc6f54c86c3c2c6ed06aa8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '58703a6e1590ac8fcba2e3bdfef7c3d0') in 0.010079 seconds 
+  Import took 0.022953 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000273 seconds.
+  path: Assets/SkyBox Volume 2/DeepSpaceGreenWithPlanet/leftImage.png
+  artifactKey: Guid(25f74bd5fd43fe94a9bf7a33040c8fbf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SkyBox Volume 2/DeepSpaceGreenWithPlanet/leftImage.png using Guid(25f74bd5fd43fe94a9bf7a33040c8fbf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6335446099fdaf549877e30b681904b7') in 0.010709 seconds 
+  Import took 0.012827 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000293 seconds.
+  path: Assets/SkyBox Volume 2/DeepSpaceGreenWithPlanet/frontImage.png
+  artifactKey: Guid(400d172508883dc4eb23264cb156581f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SkyBox Volume 2/DeepSpaceGreenWithPlanet/frontImage.png using Guid(400d172508883dc4eb23264cb156581f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '77ebdcda9d8697a3eb5e3e1dcbd05b6b') in 0.012108 seconds 
+  Import took 0.014418 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000292 seconds.
+  path: Assets/SkyBox Volume 2/DeepSpaceGreenWithPlanet/downImage.png
+  artifactKey: Guid(06d8be9df22e9d443a0aefb29905bd87) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SkyBox Volume 2/DeepSpaceGreenWithPlanet/downImage.png using Guid(06d8be9df22e9d443a0aefb29905bd87) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '826571910707ccc9f05cb1e34ee6a166') in 0.012148 seconds 
+  Import took 0.014905 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000329 seconds.
+  path: Assets/SkyBox Volume 2/DeepSpaceGreenWithPlanet/DSGWP.mat
+  artifactKey: Guid(5b21c6a8ce40f9641bd1204324b90b2c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SkyBox Volume 2/DeepSpaceGreenWithPlanet/DSGWP.mat using Guid(5b21c6a8ce40f9641bd1204324b90b2c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'cd20c8610ba026a40e66579a9b43b2ae') in 0.038628 seconds 
+  Import took 0.042343 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000248 seconds.
+  path: Assets/SkyBox Volume 2/DeepSpaceGreenWithPlanet/rightImage.png
+  artifactKey: Guid(61e6c3739167eb34abfef78dcc131203) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SkyBox Volume 2/DeepSpaceGreenWithPlanet/rightImage.png using Guid(61e6c3739167eb34abfef78dcc131203) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9d928e9b566769d7dd0d9298905c89ea') in 0.026940 seconds 
+  Import took 0.031098 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.506107 seconds.
+  path: Assets/SkyBox Volume 2/DeepSpaceGreen/backImage.png
+  artifactKey: Guid(968c95c521a144942bcb53ab0dba230e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SkyBox Volume 2/DeepSpaceGreen/backImage.png using Guid(968c95c521a144942bcb53ab0dba230e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '40ff8a0fdd37926be61ec7ca922deb71') in 0.014554 seconds 
+  Import took 0.017806 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000298 seconds.
+  path: Assets/SkyBox Volume 2/DeepSpaceGreen/upImage.png
+  artifactKey: Guid(376b86c8806901b4990daf9dc1615895) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SkyBox Volume 2/DeepSpaceGreen/upImage.png using Guid(376b86c8806901b4990daf9dc1615895) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '42b67acfbedb60280c20774d8bf98ad7') in 0.011631 seconds 
+  Import took 0.013607 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000283 seconds.
+  path: Assets/SkyBox Volume 2/DeepSpaceGreen/frontImage.png
+  artifactKey: Guid(05a43da33c7eccf46bfece6a05db470f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SkyBox Volume 2/DeepSpaceGreen/frontImage.png using Guid(05a43da33c7eccf46bfece6a05db470f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '905fe470584d3c17670a159d16c0a860') in 0.011855 seconds 
+  Import took 0.013783 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000280 seconds.
+  path: Assets/SkyBox Volume 2/DeepSpaceGreen/DSG.mat
+  artifactKey: Guid(a07fadb24ea940240afba3afc1a692cc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SkyBox Volume 2/DeepSpaceGreen/DSG.mat using Guid(a07fadb24ea940240afba3afc1a692cc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6168845283a856fc921150149d5dda07') in 0.031225 seconds 
+  Import took 0.035534 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000801 seconds.
+  path: Assets/SkyBox Volume 2/DeepSpaceGreen/downImage.png
+  artifactKey: Guid(8fa9128ee1c5bf84bbe093c7f8a0523a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SkyBox Volume 2/DeepSpaceGreen/downImage.png using Guid(8fa9128ee1c5bf84bbe093c7f8a0523a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f4617901386644596df22872d529f916') in 0.034299 seconds 
+  Import took 0.036971 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000356 seconds.
+  path: Assets/SkyBox Volume 2/DeepSpaceGreen/leftImage.png
+  artifactKey: Guid(b3e3bb55f10dc644daa8a354dc0030ed) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SkyBox Volume 2/DeepSpaceGreen/leftImage.png using Guid(b3e3bb55f10dc644daa8a354dc0030ed) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f5a83e6fc0f4662f9fd1451f6de9bcf4') in 0.014531 seconds 
+  Import took 0.017181 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000347 seconds.
+  path: Assets/SkyBox Volume 2/DeepSpaceGreen/rightImage.png
+  artifactKey: Guid(7cc04e6ef3221c043afaef956af7b86f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SkyBox Volume 2/DeepSpaceGreen/rightImage.png using Guid(7cc04e6ef3221c043afaef956af7b86f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0b8f0bde69f6fefb33f89b8c2e487a15') in 0.035626 seconds 
+  Import took 0.039583 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 63.580863 seconds.
+  path: Assets/SkyBox Volume 2
+  artifactKey: Guid(2910ce245cad9c4408e8ec535005bb2c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SkyBox Volume 2 using Guid(2910ce245cad9c4408e8ec535005bb2c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3a1b8743df12f2be8c3ec87415b00971') in 0.007514 seconds 
+  Import took 0.010370 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 13.117947 seconds.
+  path: Assets/SkyBox Volume 2/DeepSpaceBlueWithPlanet/backImage.png
+  artifactKey: Guid(04550512a36deb34887e513ee0f31545) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SkyBox Volume 2/DeepSpaceBlueWithPlanet/backImage.png using Guid(04550512a36deb34887e513ee0f31545) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd93cbdb874f07b5f8920151a92e8a0e4') in 0.015291 seconds 
+  Import took 0.018491 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000516 seconds.
+  path: Assets/SkyBox Volume 2/DeepSpaceBlueWithPlanet/DSBWP.mat
+  artifactKey: Guid(b8f20d5ca50d16143afc11f5e4af6fc1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SkyBox Volume 2/DeepSpaceBlueWithPlanet/DSBWP.mat using Guid(b8f20d5ca50d16143afc11f5e4af6fc1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '38e02e792345efb1a4876190b80ad4a5') in 0.044506 seconds 
+  Import took 0.046820 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000301 seconds.
+  path: Assets/SkyBox Volume 2/DeepSpaceBlueWithPlanet/downImage.png
+  artifactKey: Guid(42f68b6cc6ff3fa47b83a2664bf08ae9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SkyBox Volume 2/DeepSpaceBlueWithPlanet/downImage.png using Guid(42f68b6cc6ff3fa47b83a2664bf08ae9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '71f00b3d7ce95da991ddec48e826d72c') in 0.014172 seconds 
+  Import took 0.016529 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000345 seconds.
+  path: Assets/SkyBox Volume 2/DeepSpaceBlueWithPlanet/upImage.png
+  artifactKey: Guid(5c4046e19400c9f44961b6350406ae65) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SkyBox Volume 2/DeepSpaceBlueWithPlanet/upImage.png using Guid(5c4046e19400c9f44961b6350406ae65) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'bcd5a58750b1d185317d554856d2cc87') in 0.024018 seconds 
+  Import took 0.026789 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000339 seconds.
+  path: Assets/SkyBox Volume 2/DeepSpaceBlueWithPlanet/frontImage.png
+  artifactKey: Guid(5695b2a32243d1e40884ad984dd6423d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SkyBox Volume 2/DeepSpaceBlueWithPlanet/frontImage.png using Guid(5695b2a32243d1e40884ad984dd6423d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '56fdbcc27dfa2413c3125505bd43b990') in 0.030477 seconds 
+  Import took 0.033376 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000377 seconds.
+  path: Assets/SkyBox Volume 2/DeepSpaceBlueWithPlanet/leftImage.png
+  artifactKey: Guid(0373ee03f989db143826ef682bb33f93) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SkyBox Volume 2/DeepSpaceBlueWithPlanet/leftImage.png using Guid(0373ee03f989db143826ef682bb33f93) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b3d96596ae8500a6eb9803876cca3656') in 0.036650 seconds 
+  Import took 0.038964 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000296 seconds.
+  path: Assets/SkyBox Volume 2/DeepSpaceBlueWithPlanet/rightImage.png
+  artifactKey: Guid(ba628713edc8c9246ae86c79210da921) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SkyBox Volume 2/DeepSpaceBlueWithPlanet/rightImage.png using Guid(ba628713edc8c9246ae86c79210da921) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '23d69f2de148fd7476eebdc2ff0b68ba') in 0.017584 seconds 
+  Import took 0.020656 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000392 seconds.
+  path: Assets/SkyBox Volume 2/DeepSpaceBlueWithPlanet/leftImage.png
+  artifactKey: Guid(0373ee03f989db143826ef682bb33f93) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SkyBox Volume 2/DeepSpaceBlueWithPlanet/leftImage.png using Guid(0373ee03f989db143826ef682bb33f93) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b3d96596ae8500a6eb9803876cca3656') in 0.021384 seconds 
+  Import took 0.023804 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000345 seconds.
+  path: Assets/SkyBox Volume 2/DeepSpaceBlueWithPlanet/rightImage.png
+  artifactKey: Guid(ba628713edc8c9246ae86c79210da921) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SkyBox Volume 2/DeepSpaceBlueWithPlanet/rightImage.png using Guid(ba628713edc8c9246ae86c79210da921) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '23d69f2de148fd7476eebdc2ff0b68ba') in 0.031946 seconds 
+  Import took 0.034926 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 282.310010 seconds.
+  path: Assets/Skybox.mat
+  artifactKey: Guid(e6b973880727dbf4494b05ffca662743) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Skybox.mat using Guid(e6b973880727dbf4494b05ffca662743) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '068e3ac4437d45195583844ea8aa5199') in 0.025551 seconds 
+  Import took 0.040276 seconds .
+
+AssetImportWorkerClient::OnTransportError - code=2 error=End of file
