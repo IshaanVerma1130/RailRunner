@@ -681,6 +681,22 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 963194228}
     m_Modifications:
+    - target: {fileID: 1214674400, guid: e261f7b66a8f0fd4492d87df1eee4222, type: 3}
+      propertyPath: xRange
+      value: 7
+      objectReference: {fileID: 0}
+    - target: {fileID: 1214674400, guid: e261f7b66a8f0fd4492d87df1eee4222, type: 3}
+      propertyPath: yRange
+      value: 5
+      objectReference: {fileID: 0}
+    - target: {fileID: 1214674400, guid: e261f7b66a8f0fd4492d87df1eee4222, type: 3}
+      propertyPath: rotationRollFactor
+      value: -6
+      objectReference: {fileID: 0}
+    - target: {fileID: 1214674400, guid: e261f7b66a8f0fd4492d87df1eee4222, type: 3}
+      propertyPath: positionPitchFactor
+      value: -4.5
+      objectReference: {fileID: 0}
     - target: {fileID: 1404724577958374, guid: e261f7b66a8f0fd4492d87df1eee4222, type: 3}
       propertyPath: m_Name
       value: StarSparrow3
@@ -695,7 +711,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 4530302269161020, guid: e261f7b66a8f0fd4492d87df1eee4222, type: 3}
       propertyPath: m_LocalPosition.y
-      value: -2
+      value: -1
       objectReference: {fileID: 0}
     - target: {fileID: 4530302269161020, guid: e261f7b66a8f0fd4492d87df1eee4222, type: 3}
       propertyPath: m_LocalPosition.z
